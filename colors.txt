@@ -1,0 +1,5 @@
+Font-family: Poppins
+primary: #C0E6BA
+secondary: #4CA771
+third: #013237
+backgroung: #EAF9E7
