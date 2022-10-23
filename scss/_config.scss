@@ -3,6 +3,7 @@ $secondary-color: #eece1a;
 $show-home-image: true;
 $home-image: url(../img/background.jpg);
 $background-opacity: .7;
+$portrait-img: url(../img/portrait.jpg);
 
 @mixin easeOut {
   transition: all .5s ease-out;
